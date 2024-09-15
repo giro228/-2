@@ -4,4 +4,4 @@ second_number=int(input())
 if first_number>second_number:
     print("первое число делится на второе")
 elif first_number<second_number:
-    print("первое число неделится на второе на второе")
+    print("первое число неделится на второе")
